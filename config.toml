@@ -1,4 +1,0 @@
-baseURL = "https://cpswan.github.io/hyde-msp-example/"
-languageCode = "en-us"
-title = "Multiple single pages with Hyde"
-theme = "hyde"

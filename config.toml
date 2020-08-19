@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://cpswan.github.io/hyde-msp-example/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Multiple single pages with Hyde"
+theme = "hyde"

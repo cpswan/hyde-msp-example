@@ -1,5 +1,5 @@
 ---
-title: "Pagename"
+title: "Pagename - index.md (no underscore)"
 date: 2020-08-19T14:44:21+01:00
 ---
 
